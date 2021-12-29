@@ -1,3 +1,7 @@
+#IMPORTANTE:
+#NECESITA ANTES INSTALAR LA LIBRERIA TURTLE
+#DESDE EL cmd A TRAVES DEL SIGUIENTE COMANDO
+#pip install PythonTurtle
 import  turtle              # Nos permite usar tortugas 
 def koch(t, order, size):
     if order == 0:
